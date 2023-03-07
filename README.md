@@ -1,6 +1,6 @@
 ### Hi everyone 👋
 
-I'm Ana Sofía Decurgez, I'm 27 years old and I'm actually living in Chubut, Argentina.
+I'm Ana Sofía Decurgez, I'm 28 years old and I'm actually living in Chubut, Argentina.
 
 ```javascript
 const aboutMe = {
