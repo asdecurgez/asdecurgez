@@ -5,7 +5,7 @@ I'm Ana Sofía Decurgez, I'm 29 years old and I'm actually living in Entre Ríos
 ```javascript
 const aboutMe = {
    pronouns: "she" | "her",
-   code: [Javascript, Typescript, HTML, CSS, Java, Pascal, Assembly],
+   code: [Javascript, Typescript, HTML, CSS, Java, Pascal, Assembly, Phyton],
    technologies: {
       frontEnd: {
          js: ["React", "Redux"],
