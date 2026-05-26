@@ -1,6 +1,6 @@
 ### Hi everyone 👋
 
-I'm Ana Sofía Decurgez, I'm 30 years old and I'm actually living in Entre Ríos, Argentina.
+I'm Ana Sofía Decurgez, I'm 31 years old and I'm actually living in Entre Ríos, Argentina.
 
 ```javascript
 const aboutMe = {
