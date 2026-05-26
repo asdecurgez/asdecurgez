@@ -23,6 +23,8 @@ const aboutMe = {
 
 📚 Besides, I studied for 2 years Licenciatura en Sistemas at UNLP, where I learned some programming languages, such as Java, Pascal and Assembly and about POO and Computers Architecture and Organization, too.
 
+Currently I'm studying Tecnicatura en Desarrollo Web at UNER, started in 2026 and will graduate in 2027.
+
 💻 I like challenges and using logic to resolve any kind of problem, I'm always willing to learn about any technology to keep growing up as a professional everyday. I feel very comfortable working in a team and I love learning from them.
 
 <h3 align="left">Languages and Tools:</h3>
