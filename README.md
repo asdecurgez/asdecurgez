@@ -28,8 +28,7 @@ Currently I'm studying Tecnicatura en Desarrollo Web at UNER, started in 2026 an
 💻 I like challenges and using logic to resolve any kind of problem, I'm always willing to learn about any technology to keep growing up as a professional everyday. I feel very comfortable working in a team and I love learning from them.
 
 My LinkedIn profile:
-https://www.linkedin.com/in/asdecurgez/
-</p>
+[https://www.linkedin.com/in/asdecurgez/](https://www.linkedin.com/in/asdecurgez)
 
 <h4>Feel free to contact me at:
 📧 asdecurgez@hotmail.com</h4>
